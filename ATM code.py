@@ -1,6 +1,7 @@
 
 pin=int(input('create a pin:'))
-balance=500
+balance=5000
+
 
 print("Welcome to HDFC")
 for i in range(3):
