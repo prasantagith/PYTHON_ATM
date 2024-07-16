@@ -1,4 +1,4 @@
-  
+   
 pin=int(input('create a pin:'))
 balance=2000
  
